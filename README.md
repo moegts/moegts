@@ -1,5 +1,15 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?multiline=true&width=100&lines=From+Zero+to+Hero.++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?multiline=true&width=500&lines=From+Zero+to+Hero.+++++++++++++++++)](https://git.io/typing-svg)
+
+# #
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moegts&layout=compact)
+
+# #
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=moegts&theme=neon-palenight&hide_border=true)
+
+- - -
+
 <!--
 **moegts/moegts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
