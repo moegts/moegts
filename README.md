@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?multiline=true&width=500&lines=From+Zero+to+Hero.+++++++++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?multiline=true&width=500&lines=Full-Stack+JavaScript+Developer+++++++++++++++++)](https://git.io/typing-svg)
 
 # #
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moegts&layout=compact)
