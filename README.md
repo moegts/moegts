@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋😎
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?multiline=true&width=500&lines=Full-Stack+JavaScript+Developer+++++++++++++++++)](https://git.io/typing-svg)
 
 # #
