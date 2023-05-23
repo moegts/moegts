@@ -24,6 +24,12 @@
 - 💬 you don't know how much you don't know...
 - 📖 reading books:
 - - ~Rich Dad Poor Dad~
+- You Are The Team
+- Leading a Software Development Team
+- Leading Creative Teams
+- The Softer Side of Leadership
+- The Manager's Path
+
 <!--
 **moegts/moegts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
